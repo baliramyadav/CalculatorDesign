@@ -1,0 +1,42 @@
+﻿body {
+    background-color:rgb(163,159,159);
+}
+.maininput{
+    font-size:70px;
+    color:whitesmoke;
+    font-weight:400;
+}
+.calculator{
+    margin:auto;
+    background-color:black;
+    border:2px solid whitesmoke;
+    width:28%;
+    height:470px;
+    border-radius:20px;
+    box-shadow:10px 10px 40px;
+}
+.maininput{
+    background-color:black;
+    border:1px solid grey;
+    height:90px;
+    width:98.2%;
+}
+.numberbutton {
+    padding: 30px 35px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: large;
+}
+.numberbutton:hover {
+    background-color: rgb(180,178,178);
+}
+.oprationbutton {
+    padding: 30px 35px;
+    border-radius: 59px;
+    font-weight: 600;
+    font-size: large;
+    background-color: orangered;
+}
+    .oprationbutton:hover {
+        background-color: rgb(216,171,55);
+    }
